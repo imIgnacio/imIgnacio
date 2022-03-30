@@ -51,9 +51,9 @@
 
 ### 🖤 Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imIgnacio&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imIgnacio&theme=shades-of-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imIgnacio&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imIgnacio&theme=shades-of-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **imIgnacio/imIgnacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
