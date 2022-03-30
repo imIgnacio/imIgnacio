@@ -5,9 +5,9 @@
    “role” : “Full Stack Dev | MERN Stack”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/ignacio-diaz-ruiz/", `#1589F0` 
-      "Instagram": "https://www.instagram.com/chachoim", `#1589F0`
-      "Twitter"  : "https://twitter.com/imIgnacioDiaz" `#1589F0`
+      "Linkedin" : "https://www.linkedin.com/in/ignacio-diaz-ruiz/",
+      "Instagram": "https://www.instagram.com/chachoim",
+      "Twitter"  : "https://twitter.com/imIgnacioDiaz"
      }
  }
  ```
