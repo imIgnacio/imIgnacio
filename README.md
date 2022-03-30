@@ -1,7 +1,8 @@
 ## Hi 👋 I'm Ignacio Diaz
 
  ```
- { “name” : “Ignacio Diaz Ruiz”,
+ { 
+   “name” : “Ignacio Diaz Ruiz”,
    “role” : “Full Stack Dev | MERN Stack”,
    “data” : 
      { 
