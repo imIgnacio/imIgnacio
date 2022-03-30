@@ -51,7 +51,7 @@
 
 ### 🖤 Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imIgnacio)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imIgnacio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
