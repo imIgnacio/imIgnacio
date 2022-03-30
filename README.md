@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Ignacio Diaz
 
- { “name” : “Ignacio Diaz Ruiz”,
+ `{ “name” : “Ignacio Diaz Ruiz”,
    “role” : “Full Stack Dev | MERN Stack”,
    “data” : 
      { 
@@ -8,7 +8,7 @@
       "Instagram": "https://www.instagram.com/chachoim",
       "Twitter"  : "https://twitter.com/imIgnacioDiaz"
      }
- }
+ }`
  
  ## 💻 Principal Stack
  
